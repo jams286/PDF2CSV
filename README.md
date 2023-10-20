@@ -1,0 +1,1 @@
+La idea es leer los catalogos en pdf del ministerio de hacienda y convertirlos en un csv para poder importarlos en diferentes sistemas.
